@@ -2,6 +2,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ・Common scripts are in ./scripts/base_script  
-・Project scripts are in ./scripts/job_script_SFPQ_2026_cell_chemical_biology
+・Project scripts are in ./scripts/job_script_SFPQ
 
 ![Pipeline image](./Images/Workflow.jpg)
