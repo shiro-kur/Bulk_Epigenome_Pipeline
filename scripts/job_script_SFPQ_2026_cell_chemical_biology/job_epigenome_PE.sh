@@ -12,8 +12,8 @@
 
 i=${SGE_TASK_ID}
 
-srr=`sed -n ${i}p ./BELD_samples.txt | cut -f 1`
-name=`sed -n ${i}p ./BELD_samples.txt | cut -f 2`
+srr=`sed -n ${i}p ./samples.txt | cut -f 1`
+name=`sed -n ${i}p ./samples.txt | cut -f 2`
 
 thread=8
 wget=false
